@@ -1,6 +1,128 @@
 [
   {
     "item": {
+      "value": "Q2176939",
+      "label": "Russell Marshall"
+    },
+    "replacedBy": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "statement": "Q2176939$C1032575-2F6E-4811-92E3-702A3A4B6C33",
+    "ordinal": "1",
+    "start": "1987-04-01T00:00:00Z",
+    "end": "1987-08-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "replaces": {
+      "value": "Q2176939",
+      "label": "Russell Marshall"
+    },
+    "replacedBy": {
+      "value": "Q7184579",
+      "label": "Philip Woollaston"
+    },
+    "statement": "Q180383$A0EBBBED-8EA2-4B87-83D3-ABDE3732605F",
+    "ordinal": "2",
+    "start": "1987-08-24T00:00:00Z",
+    "end": "1989-01-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7184579",
+      "label": "Philip Woollaston"
+    },
+    "replaces": {
+      "value": "Q180383",
+      "label": "Helen Clark"
+    },
+    "replacedBy": {
+      "value": "Q5257374",
+      "label": "Denis Marshall"
+    },
+    "statement": "Q7184579$4B0FDB17-B1E0-4A99-9F54-B47121879D12",
+    "ordinal": "3",
+    "start": "1989-01-30T00:00:00Z",
+    "end": "1990-11-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5257374",
+      "label": "Denis Marshall"
+    },
+    "replaces": {
+      "value": "Q7184579",
+      "label": "Philip Woollaston"
+    },
+    "replacedBy": {
+      "value": "Q7519940",
+      "label": "Simon Upton"
+    },
+    "statement": "Q5257374$95F741CD-EBBF-4112-A7DA-CA50032609E5",
+    "ordinal": "4",
+    "start": "1990-11-02T00:00:00Z",
+    "end": "1996-05-30T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7519940",
+      "label": "Simon Upton"
+    },
+    "replaces": {
+      "value": "Q5257374",
+      "label": "Denis Marshall"
+    },
+    "replacedBy": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "statement": "Q7519940$9A2E28D7-F0BB-4110-8265-6730EBB46FE9",
+    "ordinal": "5",
+    "start": "1996-05-30T00:00:00Z",
+    "end": "1996-12-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "replaces": {
+      "value": "Q7519940",
+      "label": "Simon Upton"
+    },
+    "replacedBy": {
+      "value": "Q7416681",
+      "label": "Sandra Lee-Vercoe"
+    },
+    "statement": "Q976339$1C22CE6F-B90C-4858-BB7C-6A1BDB80DDD1",
+    "ordinal": "6",
+    "start": "1996-12-16T00:00:00Z",
+    "end": "1999-12-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7416681",
+      "label": "Sandra Lee-Vercoe"
+    },
+    "replaces": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "replacedBy": {
+      "value": "Q355398",
+      "label": "Chris Carter"
+    },
+    "statement": "Q7416681$FE5A8CDC-28B2-4185-9481-2140BD3E2726",
+    "ordinal": "7",
+    "start": "1999-12-10T00:00:00Z",
+    "end": "2002-08-15T00:00:00Z"
+  },
+  {
+    "item": {
       "value": "Q355398",
       "label": "Chris Carter"
     },
@@ -13,8 +135,63 @@
       "label": "Steve Chadwick"
     },
     "statement": "Q355398$FD13BB5B-5CAF-4BA3-877C-51E0016CDD40",
+    "ordinal": "8",
     "start": "2002-08-15T00:00:00Z",
     "end": "2007-11-05T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7612185",
+      "label": "Steve Chadwick"
+    },
+    "replaces": {
+      "value": "Q355398",
+      "label": "Chris Carter"
+    },
+    "replacedBy": {
+      "value": "Q5978594",
+      "label": "Tim Groser"
+    },
+    "statement": "Q7612185$502A4F75-D3F6-44EE-A1CE-CA4D67B7AD7A",
+    "ordinal": "9",
+    "start": "2007-10-31T00:00:00Z",
+    "end": "2008-11-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5978594",
+      "label": "Tim Groser"
+    },
+    "replaces": {
+      "value": "Q7612185",
+      "label": "Steve Chadwick"
+    },
+    "replacedBy": {
+      "value": "Q11160035",
+      "label": "Kate Wilkinson"
+    },
+    "statement": "Q5978594$5B7325EE-F0D5-4C29-BEE2-7004E3A0EA83",
+    "ordinal": "10",
+    "start": "2008-11-19T00:00:00Z",
+    "end": "2010-01-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q11160035",
+      "label": "Kate Wilkinson"
+    },
+    "replaces": {
+      "value": "Q5978594",
+      "label": "Tim Groser"
+    },
+    "replacedBy": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "statement": "Q11160035$349244F4-67CA-4CC8-B910-164327B45F61",
+    "ordinal": "11",
+    "start": "2010-01-27T00:00:00Z",
+    "end": "2013-01-22T00:00:00Z"
   },
   {
     "item": {
@@ -33,5 +210,36 @@
     "ordinal": "12",
     "start": "2013-01-22T00:00:00Z",
     "end": "2014-10-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6395132",
+      "label": "Maggie Barry"
+    },
+    "replaces": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "replacedBy": {
+      "value": "Q5408237",
+      "label": "Eugenie Sage"
+    },
+    "statement": "Q6395132$51B7CAC1-1E89-4F6F-AAE7-80E48CD0078C",
+    "ordinal": "12",
+    "start": "2014-10-08T00:00:00Z",
+    "end": "2017-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5408237",
+      "label": "Eugenie Sage"
+    },
+    "replaces": {
+      "value": "Q6395132",
+      "label": "Maggie Barry"
+    },
+    "statement": "Q5408237$3D161997-DE15-4D7F-9781-2A37472FE9E0",
+    "ordinal": "13",
+    "start": "2017-10-26T00:00:00Z"
   }
 ]
